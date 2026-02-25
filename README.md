@@ -13,33 +13,41 @@ https://renuka24-rp.github.io/renuka-patil-portfolio/
 
 ## 🛠 Tech Stack
 - Java  
-- Spring Boot, Spring MVC, Hibernate  
+- Spring Boot  
+- Spring MVC  
+- Hibernate  
 - REST APIs  
 - React.js  
 - HTML, CSS, JavaScript  
 - MySQL  
 - Git & GitHub  
+- Render (Cloud Deployment)
 
 ---
 
 ## 📂 Projects
 
-### 🔹 Smart Job Portal
-A full-stack Job Portal application where admins can post jobs and users can view and apply.
+### 🔹 Smart Job Portal (Deployed on Render)
 
-- **Backend:** Spring Boot, REST APIs, JPA
-- **Frontend Demo:** GitHub Pages
+A full-stack Job Portal application where admins can post jobs and users can view and apply.  
+The complete application (Frontend + Backend) is deployed on Render.
+
+- **Backend:** Spring Boot, REST APIs, JPA, MySQL  
+- **Frontend:** React.js  
+- **Deployment:** Render  
 
 🔗 GitHub: https://github.com/renuka24-rp/smart-job-portal  
-🌐 Live Demo: https://renuka24-rp.github.io/smart-job-portal/
+🌐 Live Application: https://smart-job-portal-new.onrender.com/
 
 ---
 
 ### 🔹 Student Course Management System
-A course management system that allows admins to manage courses and students to enroll.
 
-- **Backend:** Spring Boot, REST APIs
-- **Frontend Demo:** GitHub Pages
+A course management system that allows admins to manage courses and students to enroll using REST APIs.
+
+- **Backend:** Spring Boot, REST APIs  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Deployment:** (Can be deployed on Render)
 
 🔗 GitHub: https://github.com/renuka24-rp/student-course-management  
 
@@ -48,4 +56,3 @@ A course management system that allows admins to manage courses and students to 
 ## 📫 Contact
 - 📧 Email: renukapatil.1707@gmail.com  
 - 💻 GitHub: https://github.com/renuka24-rp  
-
