@@ -2,10 +2,11 @@ import { Router } from "express";
 
 const router = Router();
 
-router.get("/", (_req, res) => {
-  res.json({
-    message: "Import API Ready",
-  });
+router.post("/", (_req, res) => {
+    res.json({
+        success: true,
+        message: "AI Import endpoint coming next."
+    });
 });
 
 export default router;
